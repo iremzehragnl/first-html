@@ -1,3 +1,5 @@
 html{
-  background:green;
+  background:aquamarine;
+  h2[draggable]{
+    color:magenta;
 }
